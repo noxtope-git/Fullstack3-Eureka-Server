@@ -37,6 +37,12 @@ Eureka Dashboard disponible en: http://localhost:8761
 | `eureka.client.register-with-eureka=false` | No se registra a sí mismo |
 | `eureka.client.fetch-registry=false` | No consulta su propio registro |
 
+## Diagrama de Arquitectura
+
+![Arquitectura](architecture.png)
+
+Para ver el diagrama completo con detalles del flujo, abre [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Servicios registrados
 
 | Servicio | Nombre Eureka | Puerto |
